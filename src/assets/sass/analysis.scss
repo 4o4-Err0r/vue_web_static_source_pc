@@ -1,0 +1,15 @@
+@import './_base.scss';
+.model_lay{position: relative;}
+.analisis{border-bottom:1px solid #ccc;
+          padding:10px;
+          .analisisTitBtn{margin-left:10px;}
+          .analisisTitdel{margin-left:10px;
+                          cursor: pointer;
+                         color:rgb(247, 115, 115);}
+        }
+.analysis_list_lay{position: absolute;
+                  top:50px;
+                   bottom: 0px;
+                   left:0px;
+                   right:0px;
+                }

@@ -1,0 +1,21 @@
+@import './_base.scss';
+
+    *{font-family:  "Microsoft YaHei";}
+    .search_lay{
+        height:100%;
+        display:flex;
+        justify-content: center;
+        font-family:  "Microsoft YaHei";
+        .searchIco{
+            margin-top:15%;
+            text-align: center;
+            font-family:  "Microsoft YaHei";
+            font-size: 24px;
+            i{color:#ff9c00;
+                font-weight: bold;
+                font-size: 26px;margin-right:5px;}
+        }
+        
+        @import './searchOption.scss';
+    }
+

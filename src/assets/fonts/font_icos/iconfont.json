@@ -1,0 +1,121 @@
+{
+  "id": "1585984",
+  "name": "鹰眼",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "410553",
+      "name": "参数采集",
+      "font_class": "canshucaiji",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "594313",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "1043201",
+      "name": "用户名",
+      "font_class": "yonghuming",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1089601",
+      "name": "收藏",
+      "font_class": "buoumaotubiao44",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1392266",
+      "name": "分析",
+      "font_class": "72",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "1415510",
+      "name": "采集",
+      "font_class": "caiji",
+      "unicode": "e835",
+      "unicode_decimal": 59445
+    },
+    {
+      "icon_id": "4143190",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "4646395",
+      "name": "邮件",
+      "font_class": "youjian",
+      "unicode": "e7ed",
+      "unicode_decimal": 59373
+    },
+    {
+      "icon_id": "4685703",
+      "name": "上传",
+      "font_class": "Group-",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "5738104",
+      "name": "通信-42",
+      "font_class": "tongxin-",
+      "unicode": "ec94",
+      "unicode_decimal": 60564
+    },
+    {
+      "icon_id": "6241678",
+      "name": "数据管理",
+      "font_class": "shujuguanli",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "6849029",
+      "name": "anquanbang-数据总览_1",
+      "font_class": "anquanbang-shujuzonglan_",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7549348",
+      "name": "搜索",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "7775067",
+      "name": "库",
+      "font_class": "ku",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "7791033",
+      "name": "社交",
+      "font_class": "shejiao",
+      "unicode": "e7ef",
+      "unicode_decimal": 59375
+    },
+    {
+      "icon_id": "10319829",
+      "name": "舆情监控",
+      "font_class": "yuqingjiankong",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    }
+  ]
+}

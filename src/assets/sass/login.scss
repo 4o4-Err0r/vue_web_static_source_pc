@@ -1,0 +1,68 @@
+@import '_base.scss';
+.login_bg{
+    background-image: url(../images/login.jpg);
+    background-size: cover;
+    position: relative;
+    height:100%;
+}
+.login_logo{
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: 2px;
+    position: absolute;
+    top:20px;
+    left: 20px;
+    font-family: "Microsoft YaHei";
+}
+.login_box {
+    width: 536px;
+    height: 395px;
+    border: 1px solid rgba(67, 100, 162, 0.5);
+    border-radius: 4px;
+    background: rgba(67, 100, 162, 0.3);
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    padding-top:48px;
+    box-sizing: border-box; 
+    
+    .input_box {
+        width: 381px;
+        height:46px;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 4px;
+        background: rgba(67, 100, 162, 0.3); 
+        position: relative;
+        display: flex;
+        justify-content: flex-start;
+        align-items:center;
+        .red_style{
+            position: absolute;
+            top:50px ;
+            left:0px;
+        }
+        .user {
+            color: #eee;
+           
+            width:40px;
+            text-align: center;
+          
+            font-size: 14px; }
+        .iconfont{
+            color: #eee;
+        }
+       .input_style {
+            height: 46px;
+          
+            width: 341px;
+           
+            border: none;
+            outline: none;
+            color: #eee;
+            text-indent: 5px;
+            background-color: rgba($color: #000000, $alpha: 0.0);
+          }
+          
+    }
+}

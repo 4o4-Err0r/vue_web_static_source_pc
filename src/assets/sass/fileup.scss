@@ -1,0 +1,9 @@
+@import './_base.scss';
+.model_lay{position: relative;}
+.fileupWarp{display:flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top:30px;
+        .fileUnit{border:1px solid #ccc;width:50%;
+                 padding:15px;}
+        }
